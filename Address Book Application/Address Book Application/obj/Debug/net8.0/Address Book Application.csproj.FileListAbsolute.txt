@@ -1,0 +1,15 @@
+D:\C#.NET TUTORIAL\csharp-for-newbie\Address Book Application\Address Book Application\bin\Debug\net8.0\Address Book Application.exe
+D:\C#.NET TUTORIAL\csharp-for-newbie\Address Book Application\Address Book Application\bin\Debug\net8.0\Address Book Application.deps.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Address Book Application\Address Book Application\bin\Debug\net8.0\Address Book Application.runtimeconfig.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Address Book Application\Address Book Application\bin\Debug\net8.0\Address Book Application.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Address Book Application\Address Book Application\bin\Debug\net8.0\Address Book Application.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Address Book Application\Address Book Application\obj\Debug\net8.0\Address Book Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.NET TUTORIAL\csharp-for-newbie\Address Book Application\Address Book Application\obj\Debug\net8.0\Address Book Application.AssemblyInfoInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Address Book Application\Address Book Application\obj\Debug\net8.0\Address Book Application.AssemblyInfo.cs
+D:\C#.NET TUTORIAL\csharp-for-newbie\Address Book Application\Address Book Application\obj\Debug\net8.0\Address Book Application.csproj.CoreCompileInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Address Book Application\Address Book Application\obj\Debug\net8.0\Address Book Application.sourcelink.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Address Book Application\Address Book Application\obj\Debug\net8.0\Address Book Application.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Address Book Application\Address Book Application\obj\Debug\net8.0\refint\Address Book Application.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Address Book Application\Address Book Application\obj\Debug\net8.0\Address Book Application.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Address Book Application\Address Book Application\obj\Debug\net8.0\Address Book Application.genruntimeconfig.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Address Book Application\Address Book Application\obj\Debug\net8.0\ref\Address Book Application.dll
