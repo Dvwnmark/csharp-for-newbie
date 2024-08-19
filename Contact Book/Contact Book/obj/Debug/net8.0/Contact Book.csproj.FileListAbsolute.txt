@@ -1,0 +1,15 @@
+D:\C#.NET TUTORIAL\csharp-for-newbie\Contact Book\Contact Book\obj\Debug\net8.0\Contact Book.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.NET TUTORIAL\csharp-for-newbie\Contact Book\Contact Book\obj\Debug\net8.0\Contact Book.AssemblyInfoInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Contact Book\Contact Book\obj\Debug\net8.0\Contact Book.AssemblyInfo.cs
+D:\C#.NET TUTORIAL\csharp-for-newbie\Contact Book\Contact Book\obj\Debug\net8.0\Contact Book.csproj.CoreCompileInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Contact Book\Contact Book\obj\Debug\net8.0\Contact Book.sourcelink.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Contact Book\Contact Book\bin\Debug\net8.0\Contact Book.exe
+D:\C#.NET TUTORIAL\csharp-for-newbie\Contact Book\Contact Book\bin\Debug\net8.0\Contact Book.deps.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Contact Book\Contact Book\bin\Debug\net8.0\Contact Book.runtimeconfig.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Contact Book\Contact Book\bin\Debug\net8.0\Contact Book.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Contact Book\Contact Book\bin\Debug\net8.0\Contact Book.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Contact Book\Contact Book\obj\Debug\net8.0\Contact Book.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Contact Book\Contact Book\obj\Debug\net8.0\refint\Contact Book.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Contact Book\Contact Book\obj\Debug\net8.0\Contact Book.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Contact Book\Contact Book\obj\Debug\net8.0\Contact Book.genruntimeconfig.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Contact Book\Contact Book\obj\Debug\net8.0\ref\Contact Book.dll

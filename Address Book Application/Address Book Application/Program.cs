@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
+using System;
+using System.Collections.Generic;
 class AddressBook
 {
     static List<Contact> contacts = new List<Contact>();
