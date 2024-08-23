@@ -1,0 +1,15 @@
+D:\C#.NET TUTORIAL\csharp-for-newbie\Hangman Game\Hangman Game\bin\Debug\net8.0\Hangman Game.exe
+D:\C#.NET TUTORIAL\csharp-for-newbie\Hangman Game\Hangman Game\bin\Debug\net8.0\Hangman Game.deps.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Hangman Game\Hangman Game\bin\Debug\net8.0\Hangman Game.runtimeconfig.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Hangman Game\Hangman Game\bin\Debug\net8.0\Hangman Game.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Hangman Game\Hangman Game\bin\Debug\net8.0\Hangman Game.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Hangman Game\Hangman Game\obj\Debug\net8.0\Hangman Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.NET TUTORIAL\csharp-for-newbie\Hangman Game\Hangman Game\obj\Debug\net8.0\Hangman Game.AssemblyInfoInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Hangman Game\Hangman Game\obj\Debug\net8.0\Hangman Game.AssemblyInfo.cs
+D:\C#.NET TUTORIAL\csharp-for-newbie\Hangman Game\Hangman Game\obj\Debug\net8.0\Hangman Game.csproj.CoreCompileInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Hangman Game\Hangman Game\obj\Debug\net8.0\Hangman Game.sourcelink.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Hangman Game\Hangman Game\obj\Debug\net8.0\Hangman Game.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Hangman Game\Hangman Game\obj\Debug\net8.0\refint\Hangman Game.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Hangman Game\Hangman Game\obj\Debug\net8.0\Hangman Game.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Hangman Game\Hangman Game\obj\Debug\net8.0\Hangman Game.genruntimeconfig.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Hangman Game\Hangman Game\obj\Debug\net8.0\ref\Hangman Game.dll

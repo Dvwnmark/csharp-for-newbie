@@ -1,0 +1,15 @@
+D:\C#.NET TUTORIAL\csharp-for-newbie\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.exe
+D:\C#.NET TUTORIAL\csharp-for-newbie\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.deps.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.runtimeconfig.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Library Management System\Library Management System\bin\Debug\net8.0\Library Management System.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.NET TUTORIAL\csharp-for-newbie\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.AssemblyInfoInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.AssemblyInfo.cs
+D:\C#.NET TUTORIAL\csharp-for-newbie\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.csproj.CoreCompileInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.sourcelink.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Library Management System\Library Management System\obj\Debug\net8.0\refint\Library Management System.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Library Management System\Library Management System\obj\Debug\net8.0\Library Management System.genruntimeconfig.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Library Management System\Library Management System\obj\Debug\net8.0\ref\Library Management System.dll

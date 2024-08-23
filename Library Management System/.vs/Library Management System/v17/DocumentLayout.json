@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#.NET TUTORIAL\\csharp-for-newbie\\Library Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74071363-C837-4CAE-8B4D-07DC66762161}|Library Management System\\Library Management System.csproj|d:\\c#.net tutorial\\csharp-for-newbie\\library management system\\library management system\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74071363-C837-4CAE-8B4D-07DC66762161}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74071363-C837-4CAE-8B4D-07DC66762161}|Library Management System\\Library Management System.csproj|d:\\c#.net tutorial\\csharp-for-newbie\\library management system\\library management system\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74071363-C837-4CAE-8B4D-07DC66762161}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "D:\\C#.NET TUTORIAL\\csharp-for-newbie\\Library Management System\\Library Management System\\main\\main.cs",
+              "RelativeDocumentMoniker": "Library Management System\\main\\main.cs",
+              "ToolTip": "D:\\C#.NET TUTORIAL\\csharp-for-newbie\\Library Management System\\Library Management System\\main\\main.cs",
+              "RelativeToolTip": "Library Management System\\main\\main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T10:00:19.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\C#.NET TUTORIAL\\csharp-for-newbie\\Library Management System\\Library Management System\\Book.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Book.cs",
+              "ToolTip": "D:\\C#.NET TUTORIAL\\csharp-for-newbie\\Library Management System\\Library Management System\\Book.cs",
+              "RelativeToolTip": "Library Management System\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T09:33:30.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
