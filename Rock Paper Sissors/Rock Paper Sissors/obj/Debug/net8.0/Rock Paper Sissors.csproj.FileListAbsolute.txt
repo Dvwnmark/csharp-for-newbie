@@ -1,0 +1,15 @@
+D:\C#.NET TUTORIAL\csharp-for-newbie\Rock Paper Sissors\Rock Paper Sissors\bin\Debug\net8.0\Rock Paper Sissors.exe
+D:\C#.NET TUTORIAL\csharp-for-newbie\Rock Paper Sissors\Rock Paper Sissors\bin\Debug\net8.0\Rock Paper Sissors.deps.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Rock Paper Sissors\Rock Paper Sissors\bin\Debug\net8.0\Rock Paper Sissors.runtimeconfig.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Rock Paper Sissors\Rock Paper Sissors\bin\Debug\net8.0\Rock Paper Sissors.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Rock Paper Sissors\Rock Paper Sissors\bin\Debug\net8.0\Rock Paper Sissors.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\net8.0\Rock Paper Sissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.NET TUTORIAL\csharp-for-newbie\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\net8.0\Rock Paper Sissors.AssemblyInfoInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\net8.0\Rock Paper Sissors.AssemblyInfo.cs
+D:\C#.NET TUTORIAL\csharp-for-newbie\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\net8.0\Rock Paper Sissors.csproj.CoreCompileInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\net8.0\Rock Paper Sissors.sourcelink.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\net8.0\Rock Paper Sissors.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\net8.0\refint\Rock Paper Sissors.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\net8.0\Rock Paper Sissors.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\net8.0\Rock Paper Sissors.genruntimeconfig.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Rock Paper Sissors\Rock Paper Sissors\obj\Debug\net8.0\ref\Rock Paper Sissors.dll
