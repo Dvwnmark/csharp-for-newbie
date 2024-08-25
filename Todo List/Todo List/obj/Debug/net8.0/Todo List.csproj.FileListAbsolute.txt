@@ -1,0 +1,15 @@
+D:\C#.NET TUTORIAL\csharp-for-newbie\Todo List\Todo List\bin\Debug\net8.0\Todo List.exe
+D:\C#.NET TUTORIAL\csharp-for-newbie\Todo List\Todo List\bin\Debug\net8.0\Todo List.deps.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Todo List\Todo List\bin\Debug\net8.0\Todo List.runtimeconfig.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Todo List\Todo List\bin\Debug\net8.0\Todo List.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Todo List\Todo List\bin\Debug\net8.0\Todo List.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Todo List\Todo List\obj\Debug\net8.0\Todo List.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.NET TUTORIAL\csharp-for-newbie\Todo List\Todo List\obj\Debug\net8.0\Todo List.AssemblyInfoInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Todo List\Todo List\obj\Debug\net8.0\Todo List.AssemblyInfo.cs
+D:\C#.NET TUTORIAL\csharp-for-newbie\Todo List\Todo List\obj\Debug\net8.0\Todo List.csproj.CoreCompileInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Todo List\Todo List\obj\Debug\net8.0\Todo List.sourcelink.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Todo List\Todo List\obj\Debug\net8.0\Todo List.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Todo List\Todo List\obj\Debug\net8.0\refint\Todo List.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Todo List\Todo List\obj\Debug\net8.0\Todo List.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Todo List\Todo List\obj\Debug\net8.0\Todo List.genruntimeconfig.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Todo List\Todo List\obj\Debug\net8.0\ref\Todo List.dll
