@@ -1,0 +1,15 @@
+D:\C#.NET TUTORIAL\csharp-for-newbie\Simple Text Editer\Simple Text Editer\bin\Debug\net8.0\Simple Text Editer.exe
+D:\C#.NET TUTORIAL\csharp-for-newbie\Simple Text Editer\Simple Text Editer\bin\Debug\net8.0\Simple Text Editer.deps.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Simple Text Editer\Simple Text Editer\bin\Debug\net8.0\Simple Text Editer.runtimeconfig.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Simple Text Editer\Simple Text Editer\bin\Debug\net8.0\Simple Text Editer.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Simple Text Editer\Simple Text Editer\bin\Debug\net8.0\Simple Text Editer.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Simple Text Editer\Simple Text Editer\obj\Debug\net8.0\Simple Text Editer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.NET TUTORIAL\csharp-for-newbie\Simple Text Editer\Simple Text Editer\obj\Debug\net8.0\Simple Text Editer.AssemblyInfoInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Simple Text Editer\Simple Text Editer\obj\Debug\net8.0\Simple Text Editer.AssemblyInfo.cs
+D:\C#.NET TUTORIAL\csharp-for-newbie\Simple Text Editer\Simple Text Editer\obj\Debug\net8.0\Simple Text Editer.csproj.CoreCompileInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Simple Text Editer\Simple Text Editer\obj\Debug\net8.0\Simple Text Editer.sourcelink.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Simple Text Editer\Simple Text Editer\obj\Debug\net8.0\Simple Text Editer.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Simple Text Editer\Simple Text Editer\obj\Debug\net8.0\refint\Simple Text Editer.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Simple Text Editer\Simple Text Editer\obj\Debug\net8.0\Simple Text Editer.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Simple Text Editer\Simple Text Editer\obj\Debug\net8.0\Simple Text Editer.genruntimeconfig.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Simple Text Editer\Simple Text Editer\obj\Debug\net8.0\ref\Simple Text Editer.dll
