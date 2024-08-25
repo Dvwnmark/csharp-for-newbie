@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#.NET TUTORIAL\\csharp-for-newbie\\Tic Tac Toe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F82CEBC-C1BB-4BDA-882F-A74EF23CB806}|Tic Tac Toe\\Tic Tac Toe.csproj|d:\\c#.net tutorial\\csharp-for-newbie\\tic tac toe\\tic tac toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F82CEBC-C1BB-4BDA-882F-A74EF23CB806}|Tic Tac Toe\\Tic Tac Toe.csproj|solutionrelative:tic tac toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#.NET TUTORIAL\\csharp-for-newbie\\Tic Tac Toe\\Tic Tac Toe\\Program.cs",
+              "RelativeDocumentMoniker": "Tic Tac Toe\\Program.cs",
+              "ToolTip": "D:\\C#.NET TUTORIAL\\csharp-for-newbie\\Tic Tac Toe\\Tic Tac Toe\\Program.cs",
+              "RelativeToolTip": "Tic Tac Toe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T07:45:09.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
