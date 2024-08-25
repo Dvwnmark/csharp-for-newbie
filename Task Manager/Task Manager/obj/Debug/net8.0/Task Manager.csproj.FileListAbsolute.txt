@@ -1,0 +1,15 @@
+D:\C#.NET TUTORIAL\csharp-for-newbie\Task Manager\Task Manager\bin\Debug\net8.0\Task Manager.exe
+D:\C#.NET TUTORIAL\csharp-for-newbie\Task Manager\Task Manager\bin\Debug\net8.0\Task Manager.deps.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Task Manager\Task Manager\bin\Debug\net8.0\Task Manager.runtimeconfig.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Task Manager\Task Manager\bin\Debug\net8.0\Task Manager.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Task Manager\Task Manager\bin\Debug\net8.0\Task Manager.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Task Manager\Task Manager\obj\Debug\net8.0\Task Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.NET TUTORIAL\csharp-for-newbie\Task Manager\Task Manager\obj\Debug\net8.0\Task Manager.AssemblyInfoInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Task Manager\Task Manager\obj\Debug\net8.0\Task Manager.AssemblyInfo.cs
+D:\C#.NET TUTORIAL\csharp-for-newbie\Task Manager\Task Manager\obj\Debug\net8.0\Task Manager.csproj.CoreCompileInputs.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Task Manager\Task Manager\obj\Debug\net8.0\Task Manager.sourcelink.json
+D:\C#.NET TUTORIAL\csharp-for-newbie\Task Manager\Task Manager\obj\Debug\net8.0\Task Manager.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Task Manager\Task Manager\obj\Debug\net8.0\refint\Task Manager.dll
+D:\C#.NET TUTORIAL\csharp-for-newbie\Task Manager\Task Manager\obj\Debug\net8.0\Task Manager.pdb
+D:\C#.NET TUTORIAL\csharp-for-newbie\Task Manager\Task Manager\obj\Debug\net8.0\Task Manager.genruntimeconfig.cache
+D:\C#.NET TUTORIAL\csharp-for-newbie\Task Manager\Task Manager\obj\Debug\net8.0\ref\Task Manager.dll
